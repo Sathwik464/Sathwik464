@@ -69,7 +69,7 @@ I am a final-year Information Science student at **Sahyadri College of Engineeri
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathwik464&theme=vision-friendly-dark&hide_border=true" alt="Sathwik's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sathwik464&theme=vision-friendly-dark&hide_border=true" alt="Sathwik's Streak" />
 </div>
 
 ---
