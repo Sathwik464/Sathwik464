@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=340&section=header&text=Sathwik%20K.&fontSize=70&fontAlign=50&desc=DevOps%20|%20Cloud%20|%20Networking%20|%20AI%20Enthusiast&descAlign=50&descSize=20&padding=70"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=340&section=header&text=Sathwik%20K.&fontSize=70&fontAlign=50&desc=Cloud%20|%20Troubleshooting%20|%20Networking%20|%20AI%20Enthusiast&descAlign=50&descSize=20&padding=70"
   alt="Sathwik K Banner"
   width="100%"
 />
