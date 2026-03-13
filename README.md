@@ -20,8 +20,8 @@
   <a href="mailto:ksathwik464@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://sathwik464.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  <a href="https://sathwikk.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Blogs-100000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 I am a final-year Information Science student at **Sahyadri College of Engineering & Management, Mangaluru**, bridging the gap between **Software Development** and **IT Operations**.
  
 * 🔭 I’m currently working on **Scalable GenAI Platforms on GCP**.
-* 💼 Interning at **Infosys Springboard**.
+* 💼 Interning at **Exposys Data Labs**. Ex-Intern at **Infosys Springboard**.
 * 🌱 I’m currently learning **Kubernetes Networking & Service Mesh**.
 * 🎯 Goal: To build resilient, self-healing cloud infrastructure.
 
